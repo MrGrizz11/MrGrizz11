@@ -11,6 +11,6 @@
         <a href="mailto:grizzwashere@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
         <a href="https://github.com/MrGrizz11"><img alt="Follow Me"
-                src="https://img.shields.io/github/followers/michaelradu?label=Follow%20Me&style=for-the-badge"></a>
+                src="https://img.shields.io/github/followers/MrGrizz11?label=Follow%20Me&style=for-the-badge"></a>
     </div>
 </div>
