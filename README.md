@@ -3,9 +3,9 @@
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
     <p>🙏🏻 Welcome to my Github profile!<br />
         I am a <b>Self-learning developer & designer</b> 🚀 from <b>Moldova <b><img 
-            src="moldova flag.png">
+            src="moldova flag.png" width="17">
             <b>/Romania</b>
-        <img src="romania flag.png">.<br />
+        <img src="romania flag.png" width="17">.<br />
         I love building side projects 😍, and most of them are <b>Open source</b>. </p>
     <div>
         <a href="https://twitter.com/Grizz61611592" target="_blank"><img alt="Twitter"
