@@ -3,7 +3,7 @@
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
     <p>🙏🏻 Welcome to my Github profile!<br />
         I am a <b>Self-learning developer & designer</b> 🚀 from <b>Moldova <b><img 
-            src="https://cdn.countryflags.com/thumbs/moldova/flag-waving-250.png" width="18">
+            src="https://cdn.countryflags.com/thumbs/moldova/flag-waving-250.png" width="17">
             <b>/Romania</b>
         <img src="https://cdn.countryflags.com/thumbs/romania/flag-waving-250.png" width="16">.<br />
         I love building side projects 😍, and most of them are <b>Open source</b>. </p>
