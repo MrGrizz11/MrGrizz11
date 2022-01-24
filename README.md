@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hey, I am <a href="#">Grizz</a> <img
+    <h1>Hey, I am <a href="#">Grizz</a><br/> <img
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1><br/>
     <p>🙏🏻 Welcome to my Github profile!<br />
         I am a <b>Self-learning developer & designer</b> 🚀 from <b>Romania</b> <img
