@@ -14,3 +14,9 @@
                 src="https://img.shields.io/github/followers/michaelradu?label=Follow%20Me&style=for-the-badge"></a>
     </div>
 </div>
+
+<style>
+    h1 {
+        margin-bottom: 100px;
+    }
+    </style>
