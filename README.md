@@ -2,8 +2,8 @@
     <h1>Hey, I am <a href="https://github.com/MrGrizz11">Grizz</a> <img
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
     <p>🙏🏻 Welcome to my Github profile!<br />
-        I am a <b>Self-learning developer & designer</b> 🚀 from <b>Moldova<b><img 
-            src="https://cdn.countryflags.com/thumbs/moldova/flag-400.png" width="14">
+        I am a <b>Self-learning developer & designer</b> 🚀 from <b>Moldova <b><img 
+            src="https://cdn.countryflags.com/thumbs/moldova/flag-400.png" width="16">
             <b>/Romania</b>
         <img src="https://image.flaticon.com/icons/png/512/552/552056.png" width="14" />.<br />
         I love building side projects 😍, and most of them are <b>Open source</b>. </p>
