@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hey, I am <a href="https://github.com/MrGrizz11">Grizz</a> <img
+    <h1 style="margin-bottom: 100px">Hey, I am <a href="https://github.com/MrGrizz11">Grizz</a> <img
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
     <p>🙏🏻 Welcome to my Github profile!<br />
         I am a <b>Self-learning developer & designer</b> 🚀 from <b>Romania</b> <img
@@ -14,9 +14,3 @@
                 src="https://img.shields.io/github/followers/michaelradu?label=Follow%20Me&style=for-the-badge"></a>
     </div>
 </div>
-
-<style>
-    h1 {
-        margin-bottom: 100px;
-    }
-    </style>
