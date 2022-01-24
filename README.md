@@ -1,6 +1,6 @@
 <div align="center">
-    <h1>Hey, I am <a href="#">Grizz</a><br/> <img
-            src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1><br/>
+    <h1>Hey, I am <a href="https://github.com/MrGrizz11">Grizz</a> <img
+            src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1><br><br>
     <p>🙏🏻 Welcome to my Github profile!<br />
         I am a <b>Self-learning developer & designer</b> 🚀 from <b>Romania</b> <img
             src="https://image.flaticon.com/icons/png/512/552/552056.png" width="14" /> .<br />
